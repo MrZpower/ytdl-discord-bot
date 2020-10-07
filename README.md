@@ -9,6 +9,8 @@
 
 An example of how you can implement [ytdl-core](https://github.com/fent/node-ytdl-core) into Discord using [discord.js](https://github.com/discordjs/discord.js). [Screenshots](https://imgur.com/a/RUOAuVj)
 
+[![Run on Repl.it](https://repl.it/badge/github/promise/ytdl-discord-bot)](https://repl.it/github/promise/ytdl-discord-bot)
+
 ## Commands
 
 Without changing anything, you have access to the following commands:
